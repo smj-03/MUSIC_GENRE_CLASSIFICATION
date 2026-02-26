@@ -1,0 +1,24 @@
+.venv
+.idea
+.DS_Store
+
+.python-version
+desktop.ini
+svm_genre_model.joblib
+
+data/custom_songs/*
+!data/custom_songs/.gitkeep
+data/fma_songs/*
+!data/fma_songs/.gitkeep
+!data/fma_songs/country/
+data/fma_songs/country/*
+!data/fma_songs/country/Lopkerjo - Stand Up Today.mp3
+!data/fma_songs/country/alexgrohl-ranch-life-country-470589.mp3
+data/genres_original/*
+!data/genres_original/.gitkeep
+data/images_original/*
+!data/images_original/.gitkeep
+data/results/*
+!data/results/.gitkeep
+models/*
+!models/.gitkeep
